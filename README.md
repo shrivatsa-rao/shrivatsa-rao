@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrivatsa-rao
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning c,c++
 - 💞️ I’m looking to collaborate with developers
 
 <!---
